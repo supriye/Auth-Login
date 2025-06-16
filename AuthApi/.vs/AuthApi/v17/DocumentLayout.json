@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AuthApi\\AuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\middleware\\jwtrefreshmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\middleware\\jwtrefreshmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|d:\\authapi\\authapi\\authapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC545B-EC2A-448D-A2CF-D00CBC8F9DF0}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Program.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeToolTip": "AuthApi\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:27:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtRefreshMiddleware.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Middleware\\JwtRefreshMiddleware.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Middleware\\JwtRefreshMiddleware.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Middleware\\JwtRefreshMiddleware.cs",
+              "RelativeToolTip": "AuthApi\\Middleware\\JwtRefreshMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:18:06.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Helpers\\JwtHelper.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "AuthApi\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:58:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "AuthApi\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:54:09.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Services\\UserService.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Services\\UserService.cs",
+              "RelativeToolTip": "AuthApi\\Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:41:13.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:32:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Models\\User.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Models\\User.cs",
+              "RelativeToolTip": "AuthApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:31:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\AuthApi\\AuthApi\\AuthApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\AuthApi\\AuthApi\\AuthApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "AuthApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:31:42.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
